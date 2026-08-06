@@ -12,20 +12,23 @@
 
 
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=&fontSize=45&color=0:00C853,100:000000&fontColor=ffffff"/>
+
+
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=About+Me;Learning+Cloud+%26+DevOps;" alt="Animated About Me" />
+</div
+
 
 
 
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=180&text=About%20me&fontColor=ffffff&fontSize=42&animation=fadeIn&color=0:8A2BE2,100:2563EB"/>
-
-</div>
-
-
-<div align="center">
-
-Hey, My name is <b><i>Bala Ji</i></b> and I am an <b>Aspiring DevOps ⚙️ Engineer</b> driven by a passion for automation, cloud technologies, and modern software delivery. I enjoy working with <b>Linux, AWS, Docker, Kubernetes, Terraform, Ansible, Jenkins, Git, GitHub Actions, Prometheus, and Grafana</b> while building hands-on projects that strengthen my practical DevOps skills. Every day, I challenge myself to learn something new, automate repetitive tasks, and improve deployment workflows. My mission is to grow into a professional DevOps Engineer capable of building secure, scalable, and highly available cloud infrastructure. 💜
+Hey, I am <b><i>Bala Ji</i></b> and I am an <b>Aspiring DevOps ⚙️ Engineer</b> driven by a passion for automation, cloud technologies, and modern software delivery. I enjoy working with <b>Linux, AWS, Docker, Kubernetes, Terraform, Ansible, Jenkins, Git, GitHub Actions, Prometheus, and Grafana</b> while building hands-on projects that strengthen my practical DevOps skills. Every day, I challenge myself to learn something new, automate repetitive tasks, and improve deployment workflows. My mission is to grow into a professional DevOps Engineer capable of building secure, scalable, and highly available cloud infrastructure. 💜
 
 </div>
 
@@ -42,15 +45,59 @@ Hey, My name is <b><i>Bala Ji</i></b> and I am an <b>Aspiring DevOps ⚙️ Engi
 
 
 
-<h2 align="center">⚡ Tech Stack ⚡</h2>
+
+
+
+
+
+
+<h2 align="center">⚡ Skill ⚡</h2>
+
+<h3 align="center">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Keep+Learning;Cloud+%7C+Automation+%7C+CI%2FCD;Always+Learning+New+Technologies+%F0%9F%9A%80"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="80" alt="Git"/>
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" width="90"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="80" alt="GitLab"/>
 </p>
 
+<br>
+
+<h3 align="center">
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,git,github,docker,kubernetes,aws,terraform,ansible,jenkins,githubactions,python,prometheus,grafana,nginx,vscode,vim&theme=dark&perline=8"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="80" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="80" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="80" alt="Kubernetes"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="90"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="80" alt="Terraform"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="80" alt="Ansible"/>
 </p>
+
+<br>
+
+<h3 align="center">
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="80" alt="Jenkins"/>
+  <img src="https://cdn.simpleicons.org/githubactions/2088FF" width="80" alt="GitHub Actions"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="80" alt="Prometheus"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="80" alt="Grafana"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="80" alt="Nginx"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="80" alt="VS Code"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" width="80" alt="Vim"/>
+</p>
+
+
+
+
+
+
+
+
+
+
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -112,3 +159,12 @@ Hey, My name is <b><i>Bala Ji</i></b> and I am an <b>Aspiring DevOps ⚙️ Engi
 <h2 align="center">
 
 <p align="center">
+
+
+
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45"/>
+
+
