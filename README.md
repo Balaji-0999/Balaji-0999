@@ -41,28 +41,18 @@ Hey, My name is <b><i>Bala Ji</i></b> and I am an <b>Aspiring DevOps ⚙️ Engi
 
 
 
-</div>
 
-<h2 align="center">⚡ Skills</h2>
+<h2 align="center">⚡ Tech Stack ⚡</h2>
 
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Keep+Learning;Cloud+%7C+Automation+%7C+CI%2FCD;Always+Learning+New+Technologies+%F0%9F%9A%80"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=linux,git,github,docker,kubernetes,aws,terraform,ansible,jenkins,githubactions,python,prometheus,grafana,nginx,vscode,vim&perline=8"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,git,github,docker,kubernetes,aws,terraform,ansible,jenkins,githubactions,python,prometheus,grafana,nginx,vscode,vim&theme=dark&perline=8"/>
+</p>
 
-</div>
-
-
-
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Balaji-0999&theme=tokyonight&hide_border=true&border_radius=15"/>
-
-</div>
-
-
-
-
+&nbsp;&nbsp;&nbsp;&nbsp;
 
 <h1 align="center"> Let's Connect</h1>
 
@@ -81,6 +71,38 @@ Hey, My name is <b><i>Bala Ji</i></b> and I am an <b>Aspiring DevOps ⚙️ Engi
 </a>
 
 </div>
+
+<h2 align="center">
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=My+GitHub+Activity;Building+DevOps+Projects...;Learning+Every+Day...;Keep+coding!+%F0%9F%9A%80" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Balaji-0999">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Balaji-0999&theme=github-dark&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true&custom_title=%20Contribution%20Graph" width="100%">
+  </a>
+</p>
+
+
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Balaji-0999&theme=github-dark-blue&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:7F3FBF&height=120&section=footer"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Balaji-0999/Balaji-0999/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+
+
 
 
 
