@@ -11,15 +11,11 @@
 
 
 
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=&fontSize=45&color=0:00C853,100:000000&fontColor=ffffff"/>
-
+<hr>
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=About+Me;Learning+Cloud+%26+DevOps;" alt="Animated About Me" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=40&pause=700&color=FFFFFF&center=true&vCenter=true&width=800&lines=About+Me;Learning+Cloud+%26+DevOps;" alt="Animated About Me" />
 </div
 
 
